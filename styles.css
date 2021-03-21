@@ -1,0 +1,15 @@
+.flexbox {
+    display: flex;
+}
+
+span {
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.flexbox div {
+    margin: 1%;
+}
